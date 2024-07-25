@@ -1,1 +1,1 @@
-# RiteAidPacckage
+# RiteAidPackage
